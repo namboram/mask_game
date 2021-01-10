@@ -11,7 +11,7 @@ body {
 }
 
 .title{
-    width: 450px;
+    width: 500px;
     height: 28px;
     margin: auto;
     margin-bottom: 5%;
@@ -20,8 +20,14 @@ body {
     border: 3px solid black;
     border-radius: 20px;
     background-color: antiquewhite;
-    
+    font-family: 'Lato', sans-serif;
+
 }
+
+.title b {
+    color: rgb(252, 84, 65);
+}
+
 
 .game {
     display: flex;
